@@ -54,7 +54,7 @@ The final output includes graphical visualization of the predictions on the test
 
 ## 🏗️ Model Architecture & Training
 
-- All four models were implemented with **two layers** and approximately **50 neurons**.
+- All four models(SimpleRNN,LSTM,GRU,Hybrid LSTM-GRU) were implemented with **two layers** and approximately **50 neurons**.
 - Each model was trained for **100 epochs**.
 - For the **SimpleRNN** and **LSTM** models, hyperparameter tuning was performed using **Keras Tuner** to optimize the number of layers and neurons.
 - All models used:
