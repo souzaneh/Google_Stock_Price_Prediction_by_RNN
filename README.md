@@ -44,7 +44,7 @@ The final output includes graphical visualization of the predictions on the test
 
 1. Downloaded historical daily stock prices using `yfinance`.
 2. Used only the **Close** prices, normalized to values between **0 and 1**.
-3. The sequence generation function (`sequence_data`) prepared the data such that:
+3. The sequence generation function (`sequence_data`) prepared the data in sequences  in a way :
    - The **last 10 days' prices** are used to predict the stock prices for the **next 2 days**.
 4. The data was split into:
    - **80% Training set**
