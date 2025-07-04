@@ -78,8 +78,11 @@ The final output includes graphical visualization of the predictions on the test
   - Actual vs. Predicted prices for each model.
   - Validation loss curves for performance comparison.
 
-> *(Graphs will be added soon.)*
+### Model Predictions vs Actual Prices
+![train data and  test Predictions](images/actual_vs_predictd.png)
 
+###  Zoom to Models Ptedictions
+![Comparison: Predictions of 4 Models ](images/model_comprison.png)
 ---
 
 ## 🔍 Limitations and Future Work
