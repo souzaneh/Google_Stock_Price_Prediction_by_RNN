@@ -76,7 +76,7 @@ The final output includes graphical visualization of the predictions on the test
 
 - The project includes graphical comparisons of:
   - Actual vs. Predicted prices for each model.
-  - Validation loss curves for performance comparison.
+  - Zoom to Predictions for performance comparison.
 
 ### Model Predictions vs Actual Prices
 ![train data and  test Predictions](images/actual_vs_predictd.png)
