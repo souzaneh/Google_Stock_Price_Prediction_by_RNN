@@ -95,9 +95,8 @@ The final output includes graphical visualization of the predictions on the test
    - **Google Colab**
    - **Jupyter Notebook**
    - **VS Code** with Jupyter extension
-2. Install required libraries (if needed) using:
+2. Install required libraries (if needed) using this command:
 pip install -r requirements.txt
-
 
 3. Run the notebook cells to download the data, train the models, and visualize the predictions.
 
